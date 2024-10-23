@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) navigator.serviceWorker.register('/admin-one-vue-tailwind/dev-sw.js?dev-sw', { scope: '/admin-one-vue-tailwind/', type: 'classic' })
